@@ -45,8 +45,8 @@ p {
 a.btn {
   background: #008fa1;
   color: #fff;
-  padding: 8px 15px;
-  -webkit-border-radius: 2px;
+/*  padding: 8px 15px;
+*/  -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
   -ms-border-radius: 2px;
   -o-border-radius: 2px;
@@ -58,8 +58,12 @@ a.btn {
   -moz-box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.4);
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.4);
   text-transform: uppercase;
-  font-weight: 500;
+  /*font-weight: 500;*/
   font-size: 14px;
+}
+
+#blog-btn {
+  background: #8BC34A;
 }
 .btn:hover,
 a.btn:hover {
