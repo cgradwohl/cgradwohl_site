@@ -25,7 +25,8 @@ h6 {
   font-weight: 500;
 }
 a {
-  color: #00BCD4;
+  /* color: #00BCD4; */
+  color: #234458;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -75,7 +76,8 @@ a.btn:hover {
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
-  background: #008fa1;
+  /* background: #008fa1; */
+  background: #234458;
   color: #fff;
   text-align: center;
   display: inline-block;
@@ -105,7 +107,8 @@ a.btn:hover {
   font-weight: normal;
 }
 .header {
-  background: #00BCD4;
+  /* background: #00BCD4; */
+  background: #7b8f99;
   color: #fff;
 }
 .header a {
@@ -176,7 +179,8 @@ a.btn:hover {
   margin-bottom: 30px;
 }
 .header .intro {
-  background: #00a5bb;
+  /* background: #00a5bb; */
+  background: #7b8f99;
   padding-top: 90px;
   padding-bottom: 60px;
   position: relative;
@@ -187,7 +191,7 @@ a.btn:hover {
   margin: 0 auto;
 }
 .header .contact-info {
-  background: #008fa1;
+  background: #446984;
   padding-top: 30px;
   padding-bottom: 30px;
   font-size: 16px;
@@ -217,7 +221,8 @@ a.btn:hover {
   position: relative;
 }
 .page-nav-wrapper {
-  background: #007888;
+  /* background: #007888; */
+  background: #234458;
   padding-top: 20px;
   padding-bottom: 20px;
   position: absolute;
@@ -233,7 +238,8 @@ a.btn:hover {
   left: 0;
   width: 100%;
   z-index: 100;
-  background: #00BCD4;
+  /* background: #00BCD4; */
+  background: #234458;
 }
 .page-nav-wrapper a {
   color: rgba(255, 255, 255, 0.6);
@@ -302,7 +308,8 @@ a.btn:hover {
   text-align: center;
 }
 .timeline {
-  border-left: 3px solid #00BCD4;
+  /* border-left: 3px solid #00BCD4; */
+  border-left: 3px solid #234458;
   border-bottom-right-radius: 2px;
   border-top-right-radius: 2px;
   position: relative;
@@ -333,7 +340,8 @@ a.btn:hover {
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   background: #fff;
-  border: 3px solid #00BCD4;
+  /* border: 3px solid #00BCD4; */
+  border: 3px solid #234458;
 }
 .timeline .item:after {
   content: "";
@@ -351,7 +359,8 @@ a.btn:hover {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #00BCD4;
+  /* background: #00BCD4; */
+  background: #234458;
   z-index: 10;
 }
 .timeline .work-place {
@@ -379,7 +388,8 @@ a.btn:hover {
 }
 .timeline .job-meta .title {
   font-size: 18px;
-  color: #00BCD4;
+  /* color: #00BCD4; */
+  color: #234458;
 }
 .timeline .job-meta .time {
   color: #8a8a8a;
@@ -395,7 +405,8 @@ a.btn:hover {
 }
 .education-section .degree {
   font-size: 18px;
-  color: #00BCD4;
+  /* color: #00BCD4; */
+  color: #234458;
   margin-top: 0;
   margin-bottom: 0px;
 }
@@ -634,7 +645,8 @@ a.btn:hover {
   margin-bottom: 15px;
 }
 .contact-section .service-list .fa {
-  color: #00BCD4;
+  /* color: #00BCD4; */
+  color:#234458;
 }
 .contact-section .social {
   margin-bottom: 0;
